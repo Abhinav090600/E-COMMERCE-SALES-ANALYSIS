@@ -106,6 +106,7 @@ The dashboard provides interactive filtering based on dimensions such as:
 
 This project demonstrates how **Power BI can be used to transform transactional e-commerce data into an interactive business intelligence dashboard**. The dashboard enables users to explore sales performance, product trends, profitability, discounts, orders, and geographical patterns through interactive visualizations and filters.
 
-#Dashboard look : https://github.com/Abhinav090600/E-COMMERCE-SALES-ANALYSIS/blob/main/Screenshot%202026-09-23%20022738.png
+#Dashboard look :https://github.com/Abhinav090600/E-COMMERCE-SALES-ANALYSIS/blob/main/Screenshot%202026-09-23%20022738.png
+
 
 
